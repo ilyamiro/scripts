@@ -1,0 +1,22 @@
+{
+  "math": {
+    "start_time_formatted": "23:55:00",
+    "day": "Tuesday",
+    "total_time": 8,
+    "end_time": null,
+    "end_time_formatted": null,
+    "end_times": [
+      {
+        "start_time": "23:47:22",
+        "end_time": 1730846846,
+        "end_time_formatted": "23:47:26"
+      },
+      {
+        "start_time": "23:55:00",
+        "end_time": 1730847304,
+        "end_time_formatted": "23:55:04"
+      }
+    ],
+    "date": "2024-11-05"
+  }
+}
